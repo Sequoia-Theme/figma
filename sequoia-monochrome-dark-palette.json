@@ -1,0 +1,46 @@
+{
+  "name": "Sequoia Monochrome-Dark",
+  "appearance": "dark",
+  "colors": {
+    "name": "Sequoia Monochrome Dark",
+    "appearance": "dark",
+    "background": "#0f1014",
+    "foreground": "#868690",
+    "surface": "#111216",
+    "cursor": "#7c829d",
+    "selection_bg": "#817c9c26",
+    "comment": "#43444d",
+    "accent": "#b6bac8",
+    "accent_fg": "#0f1014",
+    "muted": "#575861",
+    "syntax": {
+      "keyword": "#626983",
+      "string": "#d3d5de",
+      "variable": "#b6bac8",
+      "function": "#999eb2",
+      "type": "#7c829d",
+      "constant": "#626983",
+      "operator": "#575861",
+      "error": "#999eb2"
+    },
+    "terminal": {
+      "black": "#131317",
+      "red": "#999eb2",
+      "green": "#626983",
+      "yellow": "#d3d5de",
+      "blue": "#7c829d",
+      "magenta": "#e2e4ed",
+      "cyan": "#b6bac8",
+      "white": "#868690",
+      "bright_black": "#575861",
+      "bright_red": "#999eb2",
+      "bright_green": "#626983",
+      "bright_yellow": "#d3d5de",
+      "bright_blue": "#7c829d",
+      "bright_magenta": "#e2e4ed",
+      "bright_cyan": "#b6bac8",
+      "bright_white": "#868690"
+    }
+  },
+  "usage": "Import these values as Figma color variables (Local variables \u2192 Create variable \u2192 Color)."
+}

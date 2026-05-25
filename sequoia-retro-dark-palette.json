@@ -1,0 +1,46 @@
+{
+  "name": "Sequoia Retro-Dark",
+  "appearance": "dark",
+  "colors": {
+    "name": "Sequoia Retro Dark",
+    "appearance": "dark",
+    "background": "#0f1014",
+    "foreground": "#868690",
+    "surface": "#111216",
+    "cursor": "#5c87a4",
+    "selection_bg": "#817c9c26",
+    "comment": "#43444d",
+    "accent": "#a27e57",
+    "accent_fg": "#0f1014",
+    "muted": "#575861",
+    "syntax": {
+      "keyword": "#648f68",
+      "string": "#da674b",
+      "variable": "#a27e57",
+      "function": "#829fa7",
+      "type": "#5c87a4",
+      "constant": "#648f68",
+      "operator": "#575861",
+      "error": "#829fa7"
+    },
+    "terminal": {
+      "black": "#131317",
+      "red": "#829fa7",
+      "green": "#648f68",
+      "yellow": "#da674b",
+      "blue": "#5c87a4",
+      "magenta": "#e8b246",
+      "cyan": "#a27e57",
+      "white": "#868690",
+      "bright_black": "#575861",
+      "bright_red": "#e8b246",
+      "bright_green": "#648f68",
+      "bright_yellow": "#da674b",
+      "bright_blue": "#5c87a4",
+      "bright_magenta": "#829fa7",
+      "bright_cyan": "#a27e57",
+      "bright_white": "#868690"
+    }
+  },
+  "usage": "Import these values as Figma color variables (Local variables \u2192 Create variable \u2192 Color)."
+}

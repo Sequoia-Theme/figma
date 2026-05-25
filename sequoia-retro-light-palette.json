@@ -1,0 +1,46 @@
+{
+  "name": "Sequoia Retro-Light",
+  "appearance": "light",
+  "colors": {
+    "name": "Sequoia Retro Light",
+    "appearance": "light",
+    "background": "#edeef2",
+    "foreground": "#282930",
+    "surface": "#e2e3e8",
+    "cursor": "#456a82",
+    "selection_bg": "#817c9c38",
+    "comment": "#565760",
+    "accent": "#8a6539",
+    "accent_fg": "#0f1014",
+    "muted": "#42434e",
+    "syntax": {
+      "keyword": "#4a704e",
+      "string": "#bf5238",
+      "variable": "#8a6539",
+      "function": "#5f7982",
+      "type": "#456a82",
+      "constant": "#4a704e",
+      "operator": "#42434e",
+      "error": "#5f7982"
+    },
+    "terminal": {
+      "black": "#d4d5dc",
+      "red": "#5f7982",
+      "green": "#4a704e",
+      "yellow": "#bf5238",
+      "blue": "#456a82",
+      "magenta": "#c99730",
+      "cyan": "#8a6539",
+      "white": "#282930",
+      "bright_black": "#42434e",
+      "bright_red": "#c99730",
+      "bright_green": "#4a704e",
+      "bright_yellow": "#bf5238",
+      "bright_blue": "#456a82",
+      "bright_magenta": "#5f7982",
+      "bright_cyan": "#8a6539",
+      "bright_white": "#282930"
+    }
+  },
+  "usage": "Import these values as Figma color variables (Local variables \u2192 Create variable \u2192 Color)."
+}

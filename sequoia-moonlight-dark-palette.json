@@ -1,0 +1,46 @@
+{
+  "name": "Sequoia Moonlight-Dark",
+  "appearance": "dark",
+  "colors": {
+    "name": "Sequoia Moonlight Dark",
+    "appearance": "dark",
+    "background": "#0f1014",
+    "foreground": "#868690",
+    "surface": "#111216",
+    "cursor": "#c58fff",
+    "selection_bg": "#817c9c26",
+    "comment": "#43444d",
+    "accent": "#ffbb88",
+    "accent_fg": "#0f1014",
+    "muted": "#575861",
+    "syntax": {
+      "keyword": "#8eb6f5",
+      "string": "#9898a6",
+      "variable": "#ffbb88",
+      "function": "#f58ee0",
+      "type": "#c58fff",
+      "constant": "#8eb6f5",
+      "operator": "#575861",
+      "error": "#f58ee0"
+    },
+    "terminal": {
+      "black": "#131317",
+      "red": "#f58ee0",
+      "green": "#8eb6f5",
+      "yellow": "#9898a6",
+      "blue": "#c58fff",
+      "magenta": "#fdfdfe",
+      "cyan": "#ffbb88",
+      "white": "#868690",
+      "bright_black": "#575861",
+      "bright_red": "#f58ee0",
+      "bright_green": "#8eb6f5",
+      "bright_yellow": "#9898a6",
+      "bright_blue": "#c58fff",
+      "bright_magenta": "#fdfdfe",
+      "bright_cyan": "#ffbb88",
+      "bright_white": "#868690"
+    }
+  },
+  "usage": "Import these values as Figma color variables (Local variables \u2192 Create variable \u2192 Color)."
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Sequoia Moonlight-Light",
+  "appearance": "light",
+  "colors": {
+    "name": "Sequoia Moonlight Light",
+    "appearance": "light",
+    "background": "#edeef2",
+    "foreground": "#282930",
+    "surface": "#e2e3e8",
+    "cursor": "#9a5fd9",
+    "selection_bg": "#817c9c38",
+    "comment": "#565760",
+    "accent": "#d9884a",
+    "accent_fg": "#0f1014",
+    "muted": "#42434e",
+    "syntax": {
+      "keyword": "#4a85d4",
+      "string": "#6a6a78",
+      "variable": "#d9884a",
+      "function": "#c94da8",
+      "type": "#9a5fd9",
+      "constant": "#4a85d4",
+      "operator": "#42434e",
+      "error": "#c94da8"
+    },
+    "terminal": {
+      "black": "#d4d5dc",
+      "red": "#c94da8",
+      "green": "#4a85d4",
+      "yellow": "#6a6a78",
+      "blue": "#9a5fd9",
+      "magenta": "#282930",
+      "cyan": "#d9884a",
+      "white": "#282930",
+      "bright_black": "#42434e",
+      "bright_red": "#c94da8",
+      "bright_green": "#4a85d4",
+      "bright_yellow": "#6a6a78",
+      "bright_blue": "#9a5fd9",
+      "bright_magenta": "#282930",
+      "bright_cyan": "#d9884a",
+      "bright_white": "#282930"
+    }
+  },
+  "usage": "Import these values as Figma color variables (Local variables \u2192 Create variable \u2192 Color)."
+}
